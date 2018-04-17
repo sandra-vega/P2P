@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P2P</string>
+    <string name="Buscar_wifi">Buscar WIFI</string>
+    <string name="Play">Play</string>
+</resources>
